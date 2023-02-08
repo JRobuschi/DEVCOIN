@@ -55,7 +55,7 @@ https://github.com/JRobuschi/DEVCOIN.git
 
 ### Relationship of the tables
 
-<img width="1202" alt="Screenshot 2023-02-02 at 19 18 03" src="https://user-images.githubusercontent.com/96081496/216462141-945dd05e-f1ca-4f05-abc8-2f2d1e1e2d0c.png">
+<img width="1204" alt="Screenshot 2023-02-08 at 20 04 24" src="https://user-images.githubusercontent.com/96081496/217671678-ce278bd2-130b-469e-983a-dad2152a5f0f.png">
 
 
 ### How to use the api
